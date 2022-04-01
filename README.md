@@ -1,4 +1,4 @@
-#Frontend - Sales and Inventory Management System using React.js
+# Frontend - Sales and Inventory Management System using React.js
 
 ## Used -
 REDUX,
