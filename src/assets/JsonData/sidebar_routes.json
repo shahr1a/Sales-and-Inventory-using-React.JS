@@ -1,0 +1,32 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Dealers",
+        "route": "/dealers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Products",
+        "route": "/products",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Orders",
+        "route": "/orders",
+        "icon": "bx bx-cart"
+    },
+    {
+        "display_name": "Staff",
+        "route": "/staff",
+        "icon": "bx bx-bar-chart-alt"
+    },
+    {
+        "display_name": "categories",
+        "route": "/categories",
+        "icon": "bx bx-list-ol"
+    }
+]

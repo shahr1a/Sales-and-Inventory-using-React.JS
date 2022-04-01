@@ -1,0 +1,22 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Shop",
+        "route": "/Shop",
+        "icon": "bx bxs-shopping-bags"
+    },
+    {
+        "display_name": "Orders",
+        "route": "/Orders",
+        "icon": "bx bx-shopping-bag"
+    },
+    {
+        "display_name": "profile",
+        "route": "/profile",
+        "icon": "bx bxs-cart"
+    }
+]
